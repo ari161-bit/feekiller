@@ -1,7 +1,7 @@
 "use client";
 
 /**
- * ari161-bit/app2  ·  client/components/AFAI_FeeKiller.jsx
+ * ari161-bit/feekiller  ·  client/components/AFAI_FeeKiller.jsx
  * Aquarius OS · FeeKiller.ai · Interactive App Dashboard
  */
 
@@ -444,7 +444,7 @@ export default function AFAI_FeeKiller() {
         <ResultPanel data={s.result} mode={tab} />
 
         <p className="mt-16 text-center text-[10px] text-zinc-800 uppercase tracking-widest font-mono">
-          AFAI · Aquarius OS · ari161-bit/app2
+          AFAI · Aquarius OS · ari161-bit/feekiller
         </p>
       </div>
     </div>

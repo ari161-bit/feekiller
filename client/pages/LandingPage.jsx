@@ -1,7 +1,7 @@
 "use client";
 
 /**
- * ari161-bit/app2  ·  client/pages/LandingPage.jsx
+ * ari161-bit/feekiller  ·  client/pages/LandingPage.jsx
  * Aquarius OS · FeeKiller.ai · High-Conversion Landing Page
  */
 
@@ -415,7 +415,7 @@ export default function LandingPage() {
       <FinalCTA />
       <footer className="border-t border-white/[0.05] py-8 text-center">
         <p className="text-[10px] text-zinc-700 uppercase tracking-widest font-mono">
-          FeeKiller.ai · Aquarius OS · ari161-bit/app2
+          FeeKiller.ai · Aquarius OS · ari161-bit/feekiller
         </p>
       </footer>
     </div>
